@@ -1,0 +1,23 @@
+src/vs/workbench/contrib/chat/common/promptSyntax/config/promptFileLocations.ts
+  s_17743112834a1b::t_1ec2090137e1e0 114-124,207,215
+  s_17743112834a1b::t_a6f4762586844f 125-133,196,227
+src/vs/workbench/contrib/chat/browser/chat.shared.contribution.ts
+  s_17743112834a1b::t_ec555288450755 68
+  s_17743112834a1b::t_046e67bacda435 1241,1304
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "1f7eb812f56ec81af5b3d95847571d69d16cfc2f",
+  "prompts": {},
+  "sessions": {
+    "s_17743112834a1b": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "e80d529a-1676-41db-b2e4-7d6291bd7eb6",
+        "model": "gpt-4.1"
+      },
+      "human_author": "Crt Gorican <crt.gorican@comtradegaming.com>"
+    }
+  }
+}
