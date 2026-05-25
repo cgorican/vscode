@@ -1,0 +1,14 @@
+src/vs/workbench/contrib/chat/common/promptSyntax/config/promptFileLocations.ts
+  h_fe1f3d9736ca1b 200,220,234
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.1",
+  "base_commit_sha": "f22ebb4bfd213aff4877a23bb267f0832239584a",
+  "prompts": {},
+  "humans": {
+    "h_fe1f3d9736ca1b": {
+      "author": "Crt Gorican <crt.gorican@comtradegaming.com>"
+    }
+  }
+}
